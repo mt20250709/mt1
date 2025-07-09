@@ -10,4 +10,4 @@
 
 每个视频内容都严格筛选，提供高清质量播放，带给您最佳的观看体验。平台汇聚了众多经典影片，确保您能轻松找到自己喜欢的内容。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mt20250709/mt1 ）</span>
